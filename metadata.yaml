@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32124'
     url: http://www.gutenberg.org/2009/agents/32124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26612#A-Pirate-of-Parts
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2008-09-14'
 gutenberg_type: Text
